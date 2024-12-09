@@ -8,7 +8,7 @@ This Python script uses **Selenium** to automate playing the **Cookie Clicker** 
 - **Selenium** library
 - **ChromeDriver** for Chrome browser (ensure it is installed and in your PATH)
 
-### Installation 🛠️
+## Installation 🛠️
 
 1. **Install Selenium**:  
    Use pip to install the Selenium library:
